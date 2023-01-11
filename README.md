@@ -55,7 +55,7 @@ The Mayor reserves the right to deem an improvement too small and to request cha
 
 ## Improvement Suggestions
 
-Here are some suggestions for improvements you can use:
+Here are some suggestions for improvements you can, **but are not limited to** use:
 
 |Improvement Suggestions |Description        |Example(s)         |
 |:--------------------|:------------------|:----------|
