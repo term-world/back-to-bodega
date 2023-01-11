@@ -57,6 +57,26 @@ The Mayor reserves the right to deem an improvement too small and to request cha
 
 Summary here.
 
+## Making an improvement proposal
+
+This assignment begins your opportunity to propose and improve the world of `term-world` at-large. For this assignment, proposals may include making graphics to improve the `bodega` site experience, creating new items or actions in the `traffic-circle` itself or another assignment-related improvement not contemplated in the prior narrow categories.
+
+To make an improvement proposal, you must _create an issue_ on this repository. Do so by:
+
+* clicking the `Issues` tab at the top of the page.
+* clicking the green `New Issue` button
+* selecting the `Improvement Proposal` template 
+
+### Improvement Suggestions
+
+Here are some suggestions for improvements you can use:
+
+|Improvement Suggestions |Description        |Example(s)         |
+|:--------------------|:------------------|:----------|
+|                     |                   |           |
+
+**If you are not following an improvment suggestion you need to have your improvement suggestion checked by the professor before proceeding.**
+
 ## Backup Policy Reminder
 
 **While we may use this server to store code, you are responsible for using GitHub as your main backup.**
