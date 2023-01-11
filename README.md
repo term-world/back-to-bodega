@@ -53,7 +53,7 @@ As with previous assignments, there are plenty of opportunities for improvements
 
 The Mayor reserves the right to deem an improvement too small and to request changes.
 
-### Improvement Suggestions
+## Improvement Suggestions
 
 Here are some suggestions for improvements you can use:
 
