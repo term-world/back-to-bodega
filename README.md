@@ -23,7 +23,11 @@ In this activity, you'll:
 * use packages to extend program functionality
 * practice developing a moderately complex concept in the form of a game
 
-Here, you must:
+### Supporting media
+
+[![YouTube thumbnail](http://img.youtube.com/vi/X0zly7l_6Jo/hqdefault.jpg)](https://youtube.com/playlist?list=PLJvBsjwXNdlGnzDIdu8CCZhxl4vgsTdfa)
+
+## Completing `bodega` content
 
 * _copy_ (we **stress** _copy_) the `AmusementTemplate.py` file to your `bodega` department
 * _rename_ (we also **stress** _rename_) the file `Amusement.py`
@@ -48,14 +52,6 @@ The above outlines _minimum_ requirements. It's very likely that you'll need to 
 As with previous assignments, there are plenty of opportunities for improvements to items and the larger `bodega` structure. Some, however, will be more apt for future weeks. I'll let you know in our discussion if that's true, but you may feel free to improve the larger `bodega` as well.
 
 The Mayor reserves the right to deem an improvement too small and to request changes.
-
-### Supporting media
-
-[![YouTube thumbnail](http://img.youtube.com/vi/X0zly7l_6Jo/hqdefault.jpg)](https://youtube.com/playlist?list=PLJvBsjwXNdlGnzDIdu8CCZhxl4vgsTdfa)
-
-## Completing `bodega` content
-
-Summary here.
 
 ### Improvement Suggestions
 
