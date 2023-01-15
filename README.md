@@ -1,13 +1,13 @@
 
 | Date              |          |
 |:------------------|:---------|
-| 24 October 2022 | Assigned |
-| 30 October 2022    | Due      |
+| TODO | Assigned |
+|TODO   | Due      |
 | Status            | See original `bodega` repository |
 
 # ENTERTAINMENT ENNUI: BODEGAS BECOME BORING BOROUGH BUSINESS; ONLY GAMES WILL MAKE GREATER GAINS!
 
-**Reported by `Official Mayor-Endorsed News` on `24 October 2022`**
+**Reported by `Official Mayor-Endorsed News` on `TODO`**
 
 Citizens in the world _must be amused_ in order to stay happy. As the Mayor commented with clear intent for O.M.E.N. to report, "the people of `term-world` are only of any value to me if they are complacent. We want prestiege; we want popularity; we want...PIZZAZZ!"
 
@@ -23,9 +23,13 @@ In this activity, you'll:
 * use packages to extend program functionality
 * practice developing a moderately complex concept in the form of a game
 
-### Supporting media
+## Supporting media
 
 [![YouTube thumbnail](http://img.youtube.com/vi/X0zly7l_6Jo/hqdefault.jpg)](https://youtube.com/playlist?list=PLJvBsjwXNdlGnzDIdu8CCZhxl4vgsTdfa)
+
+### Previous Learning Objectives
+
+If you wish to review previous learning objectives from our assignments, you can visit the [`Syllabus`](https://chompe.rs/100-syllabus) for helpful information. However, it's also important to make an effort to retain what we have covered thus far as we progress through the course sections of the Readme might be taken out.
 
 ## Completing `bodega` content
 
