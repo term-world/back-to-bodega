@@ -61,9 +61,18 @@ The Mayor reserves the right to deem an improvement too small and to request cha
 
 Here are some suggestions for improvements you can, **but are not limited to** use:
 
-|Improvement Suggestions |Description        |Example(s)         |
-|:--------------------|:------------------|:----------|
-|                     |                   |           |
+|Improvement Suggestions |Description        |
+|:--------------------|:------------------|
+|Conditional Logic|	Add difficulty levels  |
+|Conditional Logic|	Add highscore tracker |                       
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
 
 **Make sure to link your issue with the pull request you used to make your actually improvement.**
 
